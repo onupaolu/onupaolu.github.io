@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onupaolu.github.io/QCL/sitemap_index.txt
+Sitemap: https://onupaolu.github.io/dNa/sitemap_index.txt
+Sitemap: https://onupaolu.github.io/lTX/sitemap_index.txt
+Sitemap: https://onupaolu.github.io/ljJ/sitemap_index.txt
